@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm [Diego Adair]</h1>
 
 <p align="center">
   🎓 AI Engineering Student @ ESCOM-IPN <br>
