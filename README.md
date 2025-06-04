@@ -40,7 +40,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/viveros-ramirez-diego-adair-090731359/))
 - 🌐 Portfolio: *coming soon*
 
 ---
